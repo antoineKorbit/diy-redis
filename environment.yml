@@ -1,0 +1,5 @@
+name: diy-redis
+channels:
+  - conda-forge
+dependencies:
+  - gevent
